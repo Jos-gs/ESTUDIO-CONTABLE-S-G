@@ -43,7 +43,7 @@
     <header class="navigation fixed-top">
         <div class="container">
           <nav class="navbar navbar-expand-lg navbar-light px-0">
-            <a class="navbar-brand logo d-flex align-items-center" href="index.html">
+            <a class="navbar-brand logo d-flex align-items-center" href="index.php">
               <img loading="lazy" class="logo-default" src="images/logo.png" alt="logo" />
               <img loading="lazy" class="logo-white" src="images/logo.png" alt="logo" />
               <span class="company-name ml-2">Estudio Contable Salazar & Garcés</span>
@@ -56,16 +56,16 @@
             <div class="collapse navbar-collapse" id="navigation">
               <ul class="navbar-nav ml-auto text-center">
                 <li class="nav-item">
-                  <a class="nav-link" href="index.html">INICIO</a>
+                  <a class="nav-link" href="index.php">INICIO</a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link" href="about.html">NOSOTROS</a>
+                  <a class="nav-link" href="about.php">NOSOTROS</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="service.html">SERVICIOS</a>
+                  <a class="nav-link" href="service.php">SERVICIOS</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.html">CONTACTOS</a>
+                  <a class="nav-link" href="contact.php">CONTACTOS</a>
                 </li>
               </ul>
             </div>
@@ -78,7 +78,7 @@
                 <div class="col-md-12">
                     <h2>Nosotros</h2>
                     <ol class="breadcrumb header-bradcrumb justify-content-center">
-                        <li class="breadcrumb-item"><a href="index.html" class="text-white">Inicio</a></li>
+                        <li class="breadcrumb-item"><a href="index.php" class="text-white">Inicio</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Nosotros</li>
                     </ol>
                 </div>
@@ -227,7 +227,7 @@
                 <div class="col-xl-6 col-lg-8 text-center">
                     <h2>¿Listo para Impulsar su Negocio?</h2>
                     <p>Contáctenos y descubra cómo podemos ayudarle a alcanzar sus objetivos financieros y empresariales.</p>
-                    <a href="contact.html" class="btn btn-main">Contáctanos</a>
+                    <a href="contact.php" class="btn btn-main">Contáctanos</a>
                 </div>
             </div>
         </div>
@@ -246,10 +246,10 @@
                             <li>
                                 <h3>Nuestros Servicios</h3>
                             </li>
-                            <li><a href="service.html">Asesoría Contable</a></li>
-                            <li><a href="service.html">Asesoría Tributaria</a></li>
-                            <li><a href="service.html">Asesoría Financiera</a></li>
-                            <li><a href="service.html">Consultoría Laboral</a></li>
+                            <li><a href="service.php">Asesoría Contable</a></li>
+                            <li><a href="service.php">Asesoría Tributaria</a></li>
+                            <li><a href="service.php">Asesoría Financiera</a></li>
+                            <li><a href="service.php">Consultoría Laboral</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-2 col-md-6 mb-5 mb-md-0">
@@ -257,10 +257,10 @@
                             <li>
                                 <h3>Enlaces Rápidos</h3>
                             </li>
-                            <li><a href="about.html">Nosotros</a></li>
-                            <li><a href="service.html">Servicios</a></li>
-                            <li><a href="team.html">Actualidad</a></li>
-                            <li><a href="contact.html">Contacto</a></li>
+                            <li><a href="about.php">Nosotros</a></li>
+                            <li><a href="service.php">Servicios</a></li>
+                            <li><a href="about.php">Actualidad</a></li>
+                            <li><a href="contact.php">Contacto</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6">

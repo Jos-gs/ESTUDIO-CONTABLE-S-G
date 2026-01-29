@@ -1,0 +1,8 @@
+# Redirigir URLs .html a .php (enlaces antiguos)
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)\.html$ $1.php [R=301,L]
+
+# Página por defecto
+DirectoryIndex index.php

@@ -36,7 +36,7 @@
   <header class="navigation fixed-top">
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-light px-0">
-        <a class="navbar-brand logo d-flex align-items-center" href="index.html">
+        <a class="navbar-brand logo d-flex align-items-center" href="index.php">
           <img loading="lazy" class="logo-default" src="images/logo.png" alt="logo" />
           <img loading="lazy" class="logo-white" src="images/logo.png" alt="logo" />
           <span class="company-name ml-2">Estudio Contable Salazar & Garcés</span>
@@ -49,16 +49,16 @@
         <div class="collapse navbar-collapse" id="navigation">
           <ul class="navbar-nav ml-auto text-center">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">INICIO</a>
+              <a class="nav-link" href="index.php">INICIO</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.html">NOSOTROS</a>
+              <a class="nav-link" href="about.php">NOSOTROS</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="service.html">SERVICIOS</a>
+              <a class="nav-link" href="service.php">SERVICIOS</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">CONTACTOS</a>
+              <a class="nav-link" href="contact.php">CONTACTOS</a>
             </li>
           </ul>
         </div>
@@ -73,7 +73,7 @@
                 <div class="col-md-12 text-center">
                     <h1 data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">ESTUDIO CONTABLE <br> SALAZAR Y GARCES ASOCIADOS S.A.C</h1>
                     <p data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".5">TU ALIADO CONTABLE</p>
-                    <a data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".8" class="btn btn-main" href="service.html">Ver Servicios</a>
+                    <a data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".8" class="btn btn-main" href="service.php">Ver Servicios</a>
                 </div>
             </div>
         </div>
@@ -84,7 +84,7 @@
                 <div class="col-md-12 text-center">
                     <h1 data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">TU ALIADO CONTABLE EN EL CRECIMIENTO EMPRESARIAL</h1>
                     <p data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".5">TRABAJAMOS DE LA MANO CON NUESTROS CLIENTES BRINDANDO ASESORIA TRIBUTARIA <br> ORIENTADA A LA TOMA DE DECISIONES</p>
-                    <a data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".8" class="btn btn-main" href="about.html">Conócenos</a>
+                    <a data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".8" class="btn btn-main" href="about.php">Conócenos</a>
                 </div>
             </div>
         </div>
@@ -95,7 +95,7 @@
                 <div class="col-md-12 text-center">
                     <h1 data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">MÁS DE 10 AÑOS ASESORANDO EMPRESAS</h1>
                     <p data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".5">SOMOS PROFESIONALES DEDICADOS A BRINDAR SOLUCIONES PARA TU EMPRESA</p>
-                    <a data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".8" class="btn btn-main" href="contact.html">Contáctanos</a>
+                    <a data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".8" class="btn btn-main" href="contact.php">Contáctanos</a>
                 </div>
             </div>
         </div>
@@ -106,7 +106,7 @@
                 <div class="col-md-12 text-center">
                     <h1 data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">PLANIFICACIÓN Y CUMPLIMIENTO TRIBUTARIO</h1>
                     <p data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".5">PAGA LO JUSTO SIN RIESGOS NI SANCIONES</p>
-                    <a data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".8" class="btn btn-main" href="service.html">Ver Servicios</a>
+                    <a data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".8" class="btn btn-main" href="service.php">Ver Servicios</a>
                 </div>
             </div>
         </div>
@@ -210,7 +210,7 @@
                     <li><b>Evaluación financiera:</b> Obtenga un análisis gratuito para conocer el estado y potencial de su negocio.</li>
                     <li><b>Boletines tributarios:</b> Manténgase informado con nuestras actualizaciones y tips relevantes.</li>
                 </ul>
-                <a href="contact.html" class="btn btn-main mt-4">Solicitar Beneficio</a>
+                <a href="contact.php" class="btn btn-main mt-4">Solicitar Beneficio</a>
             </div>
         </div>
     </div>
@@ -258,7 +258,7 @@
             <div class="col-xl-8 col-lg-10 text-center">
                 <h2>¿Listo para llevar su empresa al siguiente nivel?</h2>
                 <p>Permítanos ser su guía en el camino hacia el éxito financiero. Contáctenos hoy para una consulta gratuita y descubra cómo podemos ayudarle.</p>
-                <a href="contact.html" class="btn btn-main">Contáctanos ahora</a>
+                <a href="contact.php" class="btn btn-main">Contáctanos ahora</a>
             </div>
         </div>
     </div>
@@ -370,18 +370,18 @@
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <ul>
             <li><h3>Nuestros Servicios</h3></li>
-            <li><a href="service.html">Asesoría Tributaria</a></li>
-            <li><a href="service.html">Asesoría Laboral</a></li>
-            <li><a href="service.html">Asesoría Empresarial</a></li>
-            <li><a href="service.html">Contabilidad General</a></li>
+            <li><a href="service.php">Asesoría Tributaria</a></li>
+            <li><a href="service.php">Asesoría Laboral</a></li>
+            <li><a href="service.php">Asesoría Empresarial</a></li>
+            <li><a href="service.php">Contabilidad General</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 mb-5 mb-md-0">
           <ul>
             <li><h3>Enlaces Rápidos</h3></li>
-            <li><a href="about.html">Nosotros</a></li>
-            <li><a href="service.html">Servicios</a></li>
-            <li><a href="contact.html">Contacto</a></li>
+            <li><a href="about.php">Nosotros</a></li>
+            <li><a href="service.php">Servicios</a></li>
+            <li><a href="contact.php">Contacto</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">

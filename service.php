@@ -36,7 +36,7 @@
   <header class="navigation fixed-top">
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-light px-0">
-        <a class="navbar-brand logo d-flex align-items-center" href="index.html">
+        <a class="navbar-brand logo d-flex align-items-center" href="index.php">
           <img loading="lazy" class="logo-default" src="images/logo.png" alt="logo" />
           <img loading="lazy" class="logo-white" src="images/logo.png" alt="logo" />
           <span class="company-name ml-2">Estudio Contable Salazar & Garcés</span>
@@ -49,16 +49,16 @@
         <div class="collapse navbar-collapse" id="navigation">
           <ul class="navbar-nav ml-auto text-center">
             <li class="nav-item">
-              <a class="nav-link" href="index.html">INICIO</a>
+              <a class="nav-link" href="index.php">INICIO</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.html">NOSOTROS</a>
+              <a class="nav-link" href="about.php">NOSOTROS</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="service.html">SERVICIOS</a>
+              <a class="nav-link" href="service.php">SERVICIOS</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">CONTACTOS</a>
+              <a class="nav-link" href="contact.php">CONTACTOS</a>
             </li>
           </ul>
         </div>
@@ -72,7 +72,7 @@
             <div class="col-md-12">
                 <h2>Nuestros Servicios</h2>
                 <ol class="breadcrumb header-bradcrumb justify-content-center">
-                    <li class="breadcrumb-item"><a href="index.html" class="text-white">Inicio</a></li>
+                    <li class="breadcrumb-item"><a href="index.php" class="text-white">Inicio</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Servicios</li>
                 </ol>
             </div>
@@ -248,18 +248,18 @@
         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
           <ul>
             <li><h3>Nuestros Servicios</h3></li>
-            <li><a href="service.html">Asesoría Tributaria</a></li>
-            <li><a href="service.html">Asesoría Laboral</a></li>
-            <li><a href="service.html">Asesoría Empresarial</a></li>
-            <li><a href="service.html">Contabilidad General</a></li>
+            <li><a href="service.php">Asesoría Tributaria</a></li>
+            <li><a href="service.php">Asesoría Laboral</a></li>
+            <li><a href="service.php">Asesoría Empresarial</a></li>
+            <li><a href="service.php">Contabilidad General</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 mb-5 mb-md-0">
           <ul>
             <li><h3>Enlaces Rápidos</h3></li>
-            <li><a href="about.html">Nosotros</a></li>
-            <li><a href="service.html">Servicios</a></li>
-            <li><a href="contact.html">Contacto</a></li>
+            <li><a href="about.php">Nosotros</a></li>
+            <li><a href="service.php">Servicios</a></li>
+            <li><a href="contact.php">Contacto</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
