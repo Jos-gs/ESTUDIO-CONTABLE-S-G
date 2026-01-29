@@ -8,8 +8,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="description" content="Contáctenos para recibir asesoría contable, financiera y tributaria de alto nivel en Piura. Estamos listos para ayudarle a crecer.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-  <meta name="author" content="Themefisher">
-  <meta name="generator" content="Themefisher Bingo HTML Template v1.0">
 
   <link rel="shortcut icon" type="image/x-icon" href="images/logo.png" />
   
@@ -19,7 +17,6 @@
   
   <link rel="stylesheet" href="plugins/themefisher-font/style.css">
   <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
-  <link rel="stylesheet" href="plugins/lightbox2/css/lightbox.min.css">
   <link rel="stylesheet" href="plugins/animate/animate.css">
   <link rel="stylesheet" href="plugins/slick/slick.css">
   <link rel="stylesheet" href="css/style.css">
@@ -174,10 +171,7 @@
 
 <script src="plugins/jquery/jquery.min.js"></script>
 <script src="plugins/bootstrap/bootstrap.min.js"></script>
-<script src="plugins/parallax/jquery.parallax-1.1.3.js"></script>
-<script src="plugins/lightbox2/js/lightbox.min.js"></script>
 <script src="plugins/slick/slick.min.js"></script>
-<script src="plugins/filterizr/jquery.filterizr.min.js"></script>
 <script src="plugins/smooth-scroll/smooth-scroll.min.js"></script>
 <script src="js/script.js"></script>
 
